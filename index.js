@@ -66,3 +66,5 @@ async function GymTwo(msg) {
 }
 
 client.login(process.env.DISCORD_BOT_TOKEN)
+
+//Test Update
